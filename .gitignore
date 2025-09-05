@@ -1,0 +1,3 @@
+*.session
+config.env
+__pycache__/
